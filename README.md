@@ -8,7 +8,9 @@
   - проверим (`ls -l /home`)
 <img width="802" height="594" alt="image" src="https://github.com/user-attachments/assets/da3cb6a9-d5cc-4c7d-8262-19621e63a94f" />
   - поправил первоначальную ошибку в том что не изменил группу владельцев /home/eve, исправил при помощи `chown` добавив туда как владельца так и группу 
+  
   - (`sudo chown eve:eve /home/eve`)
+  
   <img width="537" height="186" alt="image" src="https://github.com/user-attachments/assets/3c83bfa5-5f39-42a8-b29b-5018533be4f7" />
 
 
